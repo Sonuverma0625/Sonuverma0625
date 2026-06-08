@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Hi 👋, I'm Sonu Verma
+# 💫 Hi 👋, I'm Sonu 
 
 ### Full Stack Developer | C++ Programmer | AI/ML Enthusiast
 
@@ -19,7 +19,7 @@
 ### `> whoami`
 
 ```yaml
-Name     : Sonu Verma
+Name     : Sonu 
 Role     : Full Stack Developer
 Branch   : B.Tech Electronics & Communication Engineering
 Location : India
@@ -62,65 +62,81 @@ Intern   : AI/ML @ AICTE & Edunet Foundation
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
-
-### `> ls projects/`
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛒 Darkside E-Commerce
 
-Modern responsive e-commerce platform with an attractive UI and seamless shopping experience.
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tech Stack**
+✨ Modern responsive e-commerce platform
 
-React • Node.js • MongoDB
+🔹 Shopping Cart  
+🔹 Product Management  
+🔹 Responsive Design  
+🔹 Modern UI/UX
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI Study Buddy Chatbot
 
-AI-powered student assistant with intelligent Q&A capabilities.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**Tech Stack**
+✨ AI-powered learning assistant
 
-Python • AI/ML
+🔹 Intelligent Q&A  
+🔹 Smart Responses  
+🔹 Learning Support  
+🔹 Productivity Tools
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌍 Travel Website
 
-Responsive travel platform built using HTML, CSS & JavaScript.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Tech Stack**
+✨ Responsive travel platform
 
-HTML • CSS • JavaScript
+🔹 Destination Showcase  
+🔹 Responsive Design  
+🔹 Interactive Experience  
+🔹 Smooth UI
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💼 Portfolio Website
 
-Modern portfolio showcasing projects, skills and achievements.
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Tech Stack**
+✨ Professional developer portfolio
 
-React • CSS
+🔹 Skills Showcase  
+🔹 Project Gallery  
+🔹 Contact Section  
+🔹 Modern Design
 
 </td>
 </tr>
 </table>
 
 ---
-
 ### `> cat certifications.log`
 
 | Badge | Certification | Issuer |
@@ -172,15 +188,9 @@ React • CSS
 
 ---
 
-### `> trophy --display`
 
-<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sonuverma0625&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
-
----
 
 ### `> summary --profile`
 
@@ -192,17 +202,7 @@ React • CSS
 
 ---
 
-### `> snake --watch contributions`
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Sonuverma0625/Sonuverma0625/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-![Snake animation](https://raw.githubusercontent.com/Sonuverma0625/Sonuverma0625/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</div>
-
----
 
 ### `> open_source --status`
 
@@ -225,7 +225,7 @@ Interests:
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sonu_06/)
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
 
@@ -239,9 +239,9 @@ Interests:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu0625/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sonuportfolio0625.netlify.app/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonuverma0625)
 
