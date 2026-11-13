@@ -1,6 +1,7 @@
 <!--
   Sonu Verma — GitHub Profile README
   Keep assets/ in the same repository as this README.md.
+  assets/github-metrics.svg is generated automatically by .github/workflows/metrics.yml
 -->
 
 <p align="center">
@@ -67,8 +68,7 @@ Intern   : AI/ML @ AICTE & Edunet Foundation
 ## `git stats --global`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sonuverma0625&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff5a1f&icon_color=ff5a1f&text_color=e6edf3" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonuverma0625&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff5a1f&text_color=e6edf3" alt="Top languages" />
+  <img src="assets/github-metrics.svg" alt="GitHub metrics dashboard" width="100%" />
 </p>
 
 <p align="center">
