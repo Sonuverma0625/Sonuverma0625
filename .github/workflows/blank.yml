@@ -51,7 +51,7 @@ jobs:
 
           # PageSpeed Insights panel for your portfolio
           plugin_pagespeed: yes
-          plugin_pagespeed_url: https://sonuportfolio0625.netlify.app
+          plugin_pagespeed_url: https://portfolio018-brown.vercel.app/
 
           # --- Optional panels (uncomment after filling in your own values) ---
 
